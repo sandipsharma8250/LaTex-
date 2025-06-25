@@ -1,0 +1,99 @@
+@book{smith2020ai,
+  author = {Smith, John},
+  title = {Artificial Intelligence: A Modern Approach},
+  publisher = {Tech Press},
+  year = {2020}
+}
+
+@article{jones2019nlp,
+  author = {Jones, Emily and Brown, David},
+  title = {Advances in Natural Language Processing},
+  journal = {Journal of AI Research},
+  volume = {15},
+  number = {2},
+  pages = {123-145},
+  year = {2019}
+}
+
+@online{googleai2021ethics,
+  author = {{Google AI}},
+  title = {AI Ethics Guidelines},
+  url = {https://ai.google/ethics},
+  year = {2021},
+  urldate = {2023-10-26}
+}
+
+@book{doe2018ml,
+  author = {Doe, Jane},
+  title = {Machine Learning Fundamentals},
+  publisher = {Data Books},
+  year = {2018}
+}
+
+@article{white2021cv,
+  author = {White, Sarah and Green, Robert},
+  title = {Deep Learning for Computer Vision},
+  journal = {Pattern Recognition Letters},
+  volume = {40},
+  number = {1},
+  pages = {50-65},
+  year = {2021}
+}
+
+@online{openai2022gpt,
+  author = {{OpenAI}},
+  title = {Generative Pre-trained Transformers},
+  url = {https://openai.com/gpt},
+  year = {2022},
+  urldate = {2023-10-26}
+}
+
+@book{miller2017data,
+  author = {Miller, Alex},
+  title = {Data Science Handbook},
+  publisher = {Analytic Pubs},
+  year = {2017}
+}
+
+@article{taylor2020robotics,
+  author = {Taylor, Liam},
+  title = {Robotics and Autonomous Systems},
+  journal = {IEEE Transactions on Robotics},
+  volume = {36},
+  number = {3},
+  pages = {700-715},
+  year = {2020}
+}
+
+@online{microsoftai2023responsible,
+  author = {{Microsoft AI}},
+  title = {Responsible AI Principles},
+  url = {https://www.microsoft.com/ai/responsible-ai},
+  year = {2023},
+  urldate = {2023-10-26}
+}
+
+@book{clark2019quantum,
+  author = {Clark, Olivia},
+  title = {Quantum Computing Explained},
+  publisher = {Physics Press},
+  year = {2019}
+}
+
+@article{baker2022blockchain,
+  author = {Baker, Noah and Evans, Sophie},
+  title = {Blockchain Technology in Supply Chains},
+  journal = {Journal of Distributed Systems},
+  volume = {8},
+  number = {4},
+  pages = {200-215},
+  year = {2022}
+}
+
+@online{ibmresearch2020quantum,
+  author = {{IBM Research}},
+  title = {Quantum Computing Roadmaps},
+  url = {https://www.ibm.com/quantum/},
+  year = {2020},
+  urldate = {2023-10-26}
+}
